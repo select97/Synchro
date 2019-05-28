@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Synchro</string>
+    <string name="orange">Orange</string>
+    <string name="gelb">Gelb</string>
+    <string name="gr_n">Grün</string>
+    <string name="rot">Rot</string>
+    <string name="blau">Blau</string>
+    <string name="lila">Lila</string>
+    <string name="helligkeitsschwelle">Helligkeitsschwelle</string>
+    <string name="lichtsynchronisation">Lichtsynchronisation</string>
+    <string name="akustische_synchronisation">Akustische Synchronisation</string>
+    <string name="empfange_einstellungen_via_akustik">Empfange Einstellungen via Akustik</string>
+    <string name="blinkfarbe">Blinkfarbe</string>
+    <string name="blinkfrequenz">Blinkfrequenz</string>
+    <string name="w_hle_farbe">Wähle Farbe</string>
+    <string name="modus">Modus</string>
+    <string name="empf_nger">Empfänger</string>
+    <string name="sender">Sender</string>
+    <string name="empfange_einstellungen_via_licht">Empfange Einstellungen via Licht</string>
+    <string name="sende_einstellungen_via_akustik">Sende Einstellungen via Akustik</string>
+    <string name="sende_einstellungen_via_licht">Sende Einstellungen via Licht</string>
+</resources>
